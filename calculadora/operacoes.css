@@ -1,0 +1,21 @@
+.table-operacoes{
+    position: absolute;
+    top: 03px;
+    width: 100px;
+    margin-left: 5px;
+    
+}
+.tr-operacoes{
+    
+    border: 1px solid black;
+    height: 68px;
+    
+}
+
+.tr-operacoes:active {
+    box-shadow: 1px 1px 1px black;
+}
+
+.tr-operacoes, th{
+    padding-top: 30px;
+}

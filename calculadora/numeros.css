@@ -1,0 +1,25 @@
+.div-numeros {
+    position: absolute;
+    width: 200px;
+    top: 76px;
+    left: 120px;
+}
+
+.table-numeros {
+    width: 220px;
+    right: 50px;
+    font-size: 16px;
+}
+
+.tr-numeros{
+    border: 1px solid black;
+    
+}
+
+.th-numeros:active {
+    box-shadow: 1px 1px 1px black;
+}
+
+.th-numeros{
+    border: 1px solid black;
+}
